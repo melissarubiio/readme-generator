@@ -18,5 +18,9 @@
   ## Email
   melirubio0603@gmail.com
   
+  ## Links
+- Video Tutorial: [youtube link](https://youtu.be/amxN9nVBt7E)
+- Github: [github](https://github.com/melissarubiio/readme-generator)
+
   ## License
   none
